@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "788055318679",
+    "project_id": "foodlogin-92e7a",
+    "storage_bucket": "foodlogin-92e7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788055318679:android:96d51787468190af5c89d2",
+        "android_client_info": {
+          "package_name": "com.example.uts_asli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788055318679-khbue8grvk6baeiqc6a8gh8arv0mt3u0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAUj1KFzTOw1LVAF5Mti56b2jSFf6uZlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788055318679-khbue8grvk6baeiqc6a8gh8arv0mt3u0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
